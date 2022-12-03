@@ -1,8 +1,10 @@
+### Hi There, 
+
 This is Yohannes Ketema aka @JohnZDictator. I’m currently learning Data Structures and Algorithms at [A2SV](https://www.a2sv.org). I'm currently working on Mobile Development.
  
 - 👀 I’m interested in Machine Learning and Mobile Development.
 - 🌱 I’m looking to learn and collaborate on Machine Learning Projects.
-- 📫 You can reach me via [linkedin](https://www.linkedin.com/in/yohannes-ketema-babb31171/) and [email](yohannesketemazeleke@gmail.com).
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/yohannes-ketema-babb31171/) or through my [email](:yohannesketemazeleke@gmail.com).
 
 You can find [my latest resume here](https://drive.google.com/file/d/1hAy00O4eHsNfHBDOFtxfBHID6Oc8NEdr/view?usp=share_link).
 <!---
