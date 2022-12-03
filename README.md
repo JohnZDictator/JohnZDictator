@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Yohannes Ketema aka. @JohnZDictator 
-- 👀 I’m interested in UI/UX Desings and Mobile Development
+- 👋 Hi, I’m Yohannes Ketema aka @JohnZDictator. 
+- 👀 I’m interested in Machine Learning and Mobile Development.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 🌱 I'm currently working on mobile development using Native Android using Kotlin.
-- 💞️ I’m looking to collaborate on Machine Learning.
+- 🌱 I'm currently working on Mobile Development.
+- 💞️ I’m looking to learn and collaborate on Machine Learning Projects.
 - 📫 You can reach me via linkedin and email.
 
 <!---
