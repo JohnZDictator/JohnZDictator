@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on expanding my skills as a full-stack developer and exploring AI projects.<br>.<br>🖥️ I'm looking to collaborate on full-stack and AI-driven projects with innovative developers.<br>🤝 I'm looking for help with guidance on full-stack development and advanced AI techniques.<br>🌱 I'm currently learning full-stack development and AI engineering.<br>💬 Ask me about flutter development, TDD, clean architecture, and my transition to AI.<br>⚡ Fun fact about me would be never giving up mindset.
+🔭 I'm currently working on expanding my skills as a full-stack developer and exploring AI projects.<br>🖥️ I'm looking to collaborate on full-stack and AI-driven projects with innovative developers.<br>🤝 I'm looking for help with guidance on full-stack development and advanced AI techniques.<br>🌱 I'm currently learning full-stack development and AI engineering.<br>💬 Ask me about flutter development, TDD, clean architecture, and my transition to AI.<br>⚡ Fun fact about me would be never giving up mindset.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JohnZDictator&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JohnZDictator&icon=0&color=8)](https://visitcount.itsvg.in)
